@@ -19,7 +19,6 @@
             ".vue"
         ]
     },
-    // 配置 ESLint 检查的文件类型
     "eslint.validate": [
         "javascript",
         "javascriptreact",
@@ -29,7 +28,6 @@
         }
     ],
     "vetur.validation.template": false,
-    // 保存时eslint自动修复错误
     "eslint.autoFixOnSave": true,
     "editor.tabSize": 2,
     "jest.autoEnable": false,
