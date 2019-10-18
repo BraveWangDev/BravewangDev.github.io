@@ -1,6 +1,5 @@
 name:          Web前端编码规范
 description:   使用大厂开源和企业编码规范逐步完善
-url:           www.baidu.com
 version:       v0.0.3
 
 include:       [".editorconfig", ".jscsrc", ".jshintrc", ".csslintrc", ".scss-lint.yml"]
